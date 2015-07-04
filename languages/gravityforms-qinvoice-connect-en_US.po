@@ -1,0 +1,266 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gravity Forms Qinvoice Connect Add-On\n"
+"POT-Creation-Date: 2015-07-04 11:33+0100\n"
+"PO-Revision-Date: 2015-07-04 11:33+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-gf-qinvoice-connect.php:53
+msgid "Qinvoice Connect Settings"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:58
+msgid "API URL"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:65
+msgid "API username"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:72
+msgid "API password"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:87 class-gf-qinvoice-connect.php:91
+#: class-gf-qinvoice-connect.php:403
+msgid "Name"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:91 class-gf-qinvoice-connect.php:99
+msgid "Enter a feed name to uniquely identify this setup."
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:95 class-gf-qinvoice-connect.php:99
+#: class-gf-qinvoice-connect.php:405
+msgid "Layout code"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:104
+msgid "Email"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:111
+msgid "Organization"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:118
+msgid "First Name"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:125
+msgid "Last Name"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:132
+msgid "Address"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:139
+msgid "Address 2"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:146
+msgid "Zipcode"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:153
+msgid "City"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:160
+msgid "Country"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:167
+msgid "Phone"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:174
+msgid "Delivery address"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:178
+msgid "None"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:179
+msgid "Use invoice/quote address"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:180
+msgid "Use custom fields"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:187
+msgid "Organization (delivery)"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:195
+msgid "First Name (delivery)"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:203
+msgid "Last Name (delivery)"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:212
+msgid "Address (delivery)"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:220
+msgid "Address 2 (delivery)"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:228
+msgid "Zipcode (delivery)"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:236
+msgid "City (delivery)"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:244
+msgid "Country (delivery)"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:252
+msgid "Remark"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:259 class-gf-qinvoice-connect.php:404
+msgid "Document type"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:262 class-gf-qinvoice-connect.php:428
+msgid "Invoice"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:263 class-gf-qinvoice-connect.php:431
+msgid "Quote"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:271 class-gf-qinvoice-connect.php:406
+msgid "Action"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:274 class-gf-qinvoice-connect.php:414
+msgid "Save as draft"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:275 class-gf-qinvoice-connect.php:417
+msgid "Save as PDF"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:276 class-gf-qinvoice-connect.php:420
+msgid "Save PDF and send"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:284
+msgid "Save or update relation"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:287
+msgid "No"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:288
+msgid "Yes"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:296
+msgid "Calculation method"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:299
+msgid "No VAT applicable"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:300
+msgid "Including VAT"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:301
+msgid "Excluding VAT"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:309 class-gf-qinvoice-connect.php:311
+msgid "VAT percentage"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:311
+msgid ""
+"Which VAT percentage to use. Depening on your selection at \"Calculation "
+"method\" this amount will be added or subtracted from the total amount."
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:316 class-gf-qinvoice-connect.php:318
+msgid "Discount"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:318
+msgid ""
+"When creating an invoice or estimate, this discount will be applied to the "
+"total invoice/estimate cost."
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:324 class-gf-qinvoice-connect.php:326
+msgid "Ledger account"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:326
+msgid "Optional. Set the ledger account here."
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:331
+msgid "VAT Number"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:339 class-gf-qinvoice-connect.php:341
+msgid "Export Condition"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:341
+msgid ""
+"When the export condition is enabled, form submissions will only be exported "
+"to Q-invoice.com when the condition is met. When disabled all form "
+"submissions will be exported."
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:349 class-gf-qinvoice-connect.php:407
+msgid "Payment"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:351
+msgid "Delay for payment"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:351
+msgid ""
+"Enable this option if you want the invoice to be created only after a "
+"successful payment has been processed."
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:354
+msgid "Delay request until payment has been processed."
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:366
+msgid "Qinvoice Connect Feed"
+msgstr ""
+
+#: class-gf-qinvoice-connect.php:646 class-gf-qinvoice-connect.php:659
+msgid "Please enter a number between 0 and 100."
+msgstr ""

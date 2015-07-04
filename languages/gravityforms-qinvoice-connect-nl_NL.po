@@ -1,0 +1,321 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gravity Forms Qinvoice Connect Add-On\n"
+"POT-Creation-Date: 2015-07-04 13:19+0100\n"
+"PO-Revision-Date: 2015-07-04 13:20+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: class-gf-qinvoice-connect.php:55
+msgid "Edit this feed"
+msgstr "Configuratie bewerken"
+
+#: class-gf-qinvoice-connect.php:55
+msgid "Edit"
+msgstr "Bewerk"
+
+#: class-gf-qinvoice-connect.php:56
+msgid "Duplicate this feed"
+msgstr "Dupliceer deze configuratie"
+
+#: class-gf-qinvoice-connect.php:56
+msgid "Duplicate"
+msgstr "Dupliceer"
+
+#: class-gf-qinvoice-connect.php:57
+msgid "Delete this feed"
+msgstr "Verwijder deze configuratie"
+
+#: class-gf-qinvoice-connect.php:57
+msgid "WARNING: You are about to delete this item."
+msgstr "LET OP: U staat op het punt deze configuratie te verwijderen. "
+
+#: class-gf-qinvoice-connect.php:57
+msgid "'Cancel' to stop, 'OK' to delete."
+msgstr "'Cancel' om te stoppen, 'OK' om door te gaan. "
+
+#: class-gf-qinvoice-connect.php:57
+msgid "Delete"
+msgstr "Verwijder"
+
+#: class-gf-qinvoice-connect.php:117
+msgid "Qinvoice Connect Settings"
+msgstr "Qinvoice Connect Instellingen"
+
+#: class-gf-qinvoice-connect.php:122
+msgid "API URL"
+msgstr "API URL"
+
+#: class-gf-qinvoice-connect.php:129
+msgid "API username"
+msgstr "API gebruikersnaam"
+
+#: class-gf-qinvoice-connect.php:136
+msgid "API password"
+msgstr "API wachtwoord"
+
+#: class-gf-qinvoice-connect.php:151 class-gf-qinvoice-connect.php:155
+#: class-gf-qinvoice-connect.php:475
+msgid "Name"
+msgstr "Naam"
+
+#: class-gf-qinvoice-connect.php:155 class-gf-qinvoice-connect.php:163
+msgid "Enter a feed name to uniquely identify this setup."
+msgstr "Geef een naam op ter herkenning van deze configuratie."
+
+#: class-gf-qinvoice-connect.php:159 class-gf-qinvoice-connect.php:163
+#: class-gf-qinvoice-connect.php:477
+msgid "Layout code"
+msgstr "Layout code"
+
+#: class-gf-qinvoice-connect.php:168
+msgid "Email"
+msgstr "Email"
+
+#: class-gf-qinvoice-connect.php:175
+msgid "Organization"
+msgstr "Bedrijfsnaam"
+
+#: class-gf-qinvoice-connect.php:182
+msgid "First Name"
+msgstr "Voornaam"
+
+#: class-gf-qinvoice-connect.php:189
+msgid "Last Name"
+msgstr "Achternaam"
+
+#: class-gf-qinvoice-connect.php:196
+msgid "Address"
+msgstr "Adres"
+
+#: class-gf-qinvoice-connect.php:203
+msgid "Address 2"
+msgstr "Adresregel 2"
+
+#: class-gf-qinvoice-connect.php:210
+msgid "Zipcode"
+msgstr "Postcode"
+
+#: class-gf-qinvoice-connect.php:217
+msgid "City"
+msgstr "Plaats"
+
+#: class-gf-qinvoice-connect.php:224
+msgid "Country"
+msgstr "Land"
+
+#: class-gf-qinvoice-connect.php:231
+msgid "Phone"
+msgstr "Telefoon"
+
+#: class-gf-qinvoice-connect.php:238
+msgid "Delivery address"
+msgstr "Afleveradres"
+
+#: class-gf-qinvoice-connect.php:242
+msgid "None"
+msgstr "Geen"
+
+#: class-gf-qinvoice-connect.php:243
+msgid "Use invoice/quote address"
+msgstr "Gebruik factuur/offerte adres"
+
+#: class-gf-qinvoice-connect.php:244
+msgid "Use custom fields"
+msgstr "Gebruik ander adres"
+
+#: class-gf-qinvoice-connect.php:251
+msgid "Organization (delivery)"
+msgstr "Bedrijfsnaam (aflever)"
+
+#: class-gf-qinvoice-connect.php:259
+msgid "First Name (delivery)"
+msgstr "Voornaam (aflever)"
+
+#: class-gf-qinvoice-connect.php:267
+msgid "Last Name (delivery)"
+msgstr "Achternaam (aflever)"
+
+#: class-gf-qinvoice-connect.php:276
+msgid "Address (delivery)"
+msgstr "Adres (aflever)"
+
+#: class-gf-qinvoice-connect.php:284
+msgid "Address 2 (delivery)"
+msgstr "Adresregel 2 (aflever)"
+
+#: class-gf-qinvoice-connect.php:292
+msgid "Zipcode (delivery)"
+msgstr "Postcode (aflever)"
+
+#: class-gf-qinvoice-connect.php:300
+msgid "City (delivery)"
+msgstr "Plaats (aflever)"
+
+#: class-gf-qinvoice-connect.php:308
+msgid "Country (delivery)"
+msgstr "Land (aflever)"
+
+#: class-gf-qinvoice-connect.php:316
+msgid "Remark"
+msgstr "Opmerking"
+
+#: class-gf-qinvoice-connect.php:323 class-gf-qinvoice-connect.php:476
+msgid "Document type"
+msgstr "Document type"
+
+#: class-gf-qinvoice-connect.php:326 class-gf-qinvoice-connect.php:500
+msgid "Invoice"
+msgstr "Factuur"
+
+#: class-gf-qinvoice-connect.php:327 class-gf-qinvoice-connect.php:503
+msgid "Quote"
+msgstr "Offerte"
+
+#: class-gf-qinvoice-connect.php:335 class-gf-qinvoice-connect.php:478
+msgid "Action"
+msgstr "Actie"
+
+#: class-gf-qinvoice-connect.php:338 class-gf-qinvoice-connect.php:486
+msgid "Save as draft"
+msgstr "Opslaan als concept"
+
+#: class-gf-qinvoice-connect.php:339 class-gf-qinvoice-connect.php:489
+msgid "Save as PDF"
+msgstr "Opslaan als PDF"
+
+#: class-gf-qinvoice-connect.php:340 class-gf-qinvoice-connect.php:492
+msgid "Save PDF and send"
+msgstr "Opslaan als PDF en versturen"
+
+#: class-gf-qinvoice-connect.php:348
+msgid "Save or update relation"
+msgstr "Relatie bijwerken"
+
+#: class-gf-qinvoice-connect.php:351
+msgid "No"
+msgstr "Nee"
+
+#: class-gf-qinvoice-connect.php:352
+msgid "Yes"
+msgstr "Ja"
+
+#: class-gf-qinvoice-connect.php:360
+msgid "Calculation method"
+msgstr "Rekenmethode"
+
+#: class-gf-qinvoice-connect.php:363
+msgid "No VAT applicable"
+msgstr "Geen BTW van toepassing"
+
+#: class-gf-qinvoice-connect.php:364
+msgid "Including VAT"
+msgstr "Inclusief BTW"
+
+#: class-gf-qinvoice-connect.php:365
+msgid "Excluding VAT"
+msgstr "Exclusief BTW"
+
+#: class-gf-qinvoice-connect.php:373 class-gf-qinvoice-connect.php:375
+msgid "VAT percentage"
+msgstr "BTW percentage"
+
+#: class-gf-qinvoice-connect.php:375
+msgid ""
+"Which VAT percentage to use. Depening on your selection at \"Calculation "
+"method\" this amount will be added or subtracted from the total amount."
+msgstr ""
+"Welk BTW percentage te gebruiken. Afhankelijk van de instelling bij "
+"\"Rekenmethode\" wordt dit bedrag opgeteld of afgetrokken van het berekende "
+"totaal. "
+
+#: class-gf-qinvoice-connect.php:380 class-gf-qinvoice-connect.php:382
+msgid "Discount"
+msgstr "Korting"
+
+#: class-gf-qinvoice-connect.php:382
+msgid ""
+"When creating an invoice or estimate, this discount will be applied to the "
+"total invoice/estimate cost."
+msgstr ""
+"Bij het opstellen van de factuur of offerte wordt dit bedrag in mindering "
+"gebracht. "
+
+#: class-gf-qinvoice-connect.php:388 class-gf-qinvoice-connect.php:390
+msgid "Ledger account"
+msgstr "Grootboekrekening"
+
+#: class-gf-qinvoice-connect.php:390
+msgid "Optional. Set the ledger account here."
+msgstr "Optioneel. Stel hier de grootboekrekening in. "
+
+#: class-gf-qinvoice-connect.php:395 class-gf-qinvoice-connect.php:399
+#: class-gf-qinvoice-connect.php:506
+msgid "Tags"
+msgstr "Labels"
+
+#: class-gf-qinvoice-connect.php:399
+msgid ""
+"Tags are used to easily recognize a document. Seperate multiple tags with "
+"commas."
+msgstr ""
+"Labels worden gebruikt om documenten gemakkelijk te herkennen. Meerdere "
+"labels kunt u scheiden met een komma."
+
+#: class-gf-qinvoice-connect.php:403
+msgid "VAT Number"
+msgstr "BTW nummer"
+
+#: class-gf-qinvoice-connect.php:411 class-gf-qinvoice-connect.php:413
+msgid "Export Condition"
+msgstr "Export conditie(s)"
+
+#: class-gf-qinvoice-connect.php:413
+msgid ""
+"When the export condition is enabled, form submissions will only be exported "
+"to Q-invoice.com when the condition is met. When disabled all form "
+"submissions will be exported."
+msgstr ""
+"Als deze optie is aangevinkt worden alleen verzoeken verzoeken voor "
+"formulieren die aan een of meerdere condities voldoen. Schakel deze optie "
+"uit om alle formulieren te versturen naar Q-invoice."
+
+#: class-gf-qinvoice-connect.php:421 class-gf-qinvoice-connect.php:479
+msgid "Payment"
+msgstr "Betaling"
+
+#: class-gf-qinvoice-connect.php:423
+msgid "Delay for payment"
+msgstr "Wacht op betaling"
+
+#: class-gf-qinvoice-connect.php:423
+msgid ""
+"Enable this option if you want the invoice to be created only after a "
+"successful payment has been processed."
+msgstr ""
+"Vink deze optie aan om een formulier pas naar Q-invoice te versturen als de "
+"betaling ontvangen is. "
+
+#: class-gf-qinvoice-connect.php:426
+msgid "Delay request until payment has been processed."
+msgstr "Verzoek vertragen tot betaling ontvangen is. "
+
+#: class-gf-qinvoice-connect.php:438
+msgid "Qinvoice Connect Feed"
+msgstr "Qinvoice Connect configuraties"
+
+#: class-gf-qinvoice-connect.php:722 class-gf-qinvoice-connect.php:735
+msgid "Please enter a number between 0 and 100."
+msgstr "Vul een getal tussen 0 en 100 in."
